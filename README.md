@@ -1,2 +1,5 @@
 # hello-world
-since its optional... guess nothing important
+
+Hi Earth Human,
+
+I am an alien from cat planet.
